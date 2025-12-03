@@ -7,7 +7,7 @@ Colombian AI & Data Science enthusiast focused on human-centered AI, public heal
 Designing humanized AI architectures for chatbots, RAG systems & ML workflows
 Leading UI/UX design: wireframes, user journeys, prototypes & visual systems
 Developing solutions for NCD risk, behavioral health & early risk detection
-Collaborating with teammates from India, Peru/Spain, Hong Kong, Japan & Colombia
+Collaborating with teammates from India, Peru, Spain, Hong Kong & Colombia
 
 🧠 Interests
 
