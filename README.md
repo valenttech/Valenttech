@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Valen
 
-<!--
-**valenttech/Valenttech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Colombian AI & Data Science enthusiast focused on human-centered AI, public health, and intuitive UI/UX design.
 
-Here are some ideas to get you started:
+🌱 What I Do (Currently Working On)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Designing humanized AI architectures for chatbots, RAG systems & ML workflows
+Leading UI/UX design: wireframes, user journeys, prototypes & visual systems
+Developing solutions for NCD risk, behavioral health & early risk detection
+Collaborating with teammates from India, Peru/Spain, Hong Kong, Japan & Colombia
+
+🧠 Interests
+
+NLP • Conversational design • Ethical AI • Digital health • UX for low-resource settings
+
+🛠️ Tech Stack
+
+Python • TensorFlow • PyTorch • scikit-learn • SQL • Pandas • FastAPI
+Figma • UI/UX Design • Wireframing • Prototyping • Design Systems
+Docker • GitHub Actions
